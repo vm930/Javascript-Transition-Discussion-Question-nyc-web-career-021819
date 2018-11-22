@@ -12,6 +12,9 @@ jQuery transition to fade out a div.
 As a group, clone down this repo, and run the existing code to see how it works.
 Your task is to comment out the jQuery solution and write your own solution
 using just JS DOM Manipulation (_Hint: getting elements by id and adding and
-event listener_) and then setting up an interval to smoothly change the CSS.
+event listener_) and then, using setInterval() with an interval in milliseconds
+to smoothly change the CSS.
+
+HINT: intervals act like frames. 1000 milliseconds = something happening every second.... NOT something taking 1 second to complete
 
 Can you save Abraham Lincoln using just JavaScript?
